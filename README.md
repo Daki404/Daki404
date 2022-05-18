@@ -1,7 +1,9 @@
 <h2>Hi, I'm Daki 404! <img src="https://media1.giphy.com/media/xThtavur3TE6l55APe/giphy.gif?cid=ecf05e4704ydjs93ywoibescs161e67qluthk8oky91ij19u&rid=giphy.gif&ct=s" width="70"></h2>
 <hr>
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daki404">
-<p><em>Undergraduate student at <a href="https://www.kumoh.ac.kr/ko/index.do">Kumoh National Institute of Technology</a>
+
+<p><em><strong>I'm a prospective developer who lives diligently to live lazy!</strong><img src="https://media4.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
+</br></br>Undergraduate student at <a href="https://www.kumoh.ac.kr/ko/index.do">Kumoh National Institute of Technology</a>
 </br>I want to be a <b>romantic programmer</b>!<img src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" width="50">
 </em></p>
 <br>
