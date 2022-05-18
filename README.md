@@ -6,9 +6,9 @@
 </em></p>
 <br>
 <p>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daki404">
+<img align= 'left'src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daki404">
 </p>
-<br>
+
 <hr>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
