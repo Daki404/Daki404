@@ -2,13 +2,13 @@
 <hr>
 <img align='left' src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e471ds8m95espdftkqr611wlyh3ncot6q660j9ie7x8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" height="400">
 
-<p><em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Back-end Developer!</strong>
+<p><em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Back-end Developer!</strong></em></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Programming,
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Problem Solving!
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Custom-keyboard!
+  
 </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undergraduate student at <a href="https://www.kumoh.ac.kr/ko/index.do">Kumoh National Institute of Technology</a>
-</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I want to be a <b>developer who is good to work with</b>!&nbsp;&nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFmNThydm9xN2pjZHZ1ZXQwYnhjanIyOGd1OGxsaGJodXdxZXJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9RL6QuG8k4Gco8pyFH/giphy.gif" width="50">
-</em></p>
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I want to be a <b>developer who is good to work with</b>!&nbsp;&nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFmNThydm9xN2pjZHZ1ZXQwYnhjanIyOGd1OGxsaGJodXdxZXJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9RL6QuG8k4Gco8pyFH/giphy.gif" width="40">
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daki404)](https://solved.ac/daki404)
