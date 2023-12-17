@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daki 404!<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJkbHd3cWUwcDd0dG1iN2V0dnBnMWk2dzV6YTV2NDRkNXJnazI5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x2QZhaFoCJxeUDWvJX/giphy_s.gif" width="70"></h1>
 <hr>
-<img align='left' src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e471ds8m95espdftkqr611wlyh3ncot6q660j9ie7x8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align='left' src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e471ds8m95espdftkqr611wlyh3ncot6q660j9ie7x8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" height="400">
 
 <p><em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Back-end Developer!</strong>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Programming,
