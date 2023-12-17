@@ -1,25 +1,41 @@
-<h2>Hi, I'm Daki 404! <img src="https://media1.giphy.com/media/xThtavur3TE6l55APe/giphy.gif?cid=ecf05e4704ydjs93ywoibescs161e67qluthk8oky91ij19u&rid=giphy.gif&ct=s" width="70"></h2>
+<h1>Hi, I'm Daki 404!<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJkbHd3cWUwcDd0dG1iN2V0dnBnMWk2dzV6YTV2NDRkNXJnazI5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x2QZhaFoCJxeUDWvJX/giphy_s.gif" width="70"></h1>
 <hr>
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daki404">
+<img align='left' src="https://media2.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e471ds8m95espdftkqr611wlyh3ncot6q660j9ie7x8&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-<p><em><strong>I'm a prospective developer who lives diligently to live lazy!</strong><img src="https://media4.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
-</br></br>Undergraduate student at <a href="https://www.kumoh.ac.kr/ko/index.do">Kumoh National Institute of Technology</a>
-</br>I want to be a <b>romantic programmer</b>!<img src="https://media0.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" width="50">
+<p><em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Back-end Developer!</strong>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Programming,
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Problem Solving!
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Custom-keyboard!
+
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undergraduate student at <a href="https://www.kumoh.ac.kr/ko/index.do">Kumoh National Institute of Technology</a>
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I want to be a <b>developer who is good to work with</b>!&nbsp;&nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFmNThydm9xN2pjZHZ1ZXQwYnhjanIyOGd1OGxsaGJodXdxZXJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9RL6QuG8k4Gco8pyFH/giphy.gif" width="70">
 </em></p>
-<br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daki404)](https://solved.ac/daki404)
 
 <hr>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/PySelenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
-
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
-
-
+<h3 align="left"><b>🦜 Language</b></h3>
+<p align="left">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="70"/>
+</p>
+<h3 align="left"><b>🐉 FrameWork</b></h3>
+<p align="left">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
+</p>
+<h3 align="left"><b>🔨 Tool</b></h3>
+<p align="left">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+</p>
+<h3 align="left"><b>🖥️ OS</b></h3>
+<p align="left">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50"/>
+</p>
