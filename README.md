@@ -6,9 +6,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Programming,
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Problem Solving!
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Custom-keyboard!
-
 </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undergraduate student at <a href="https://www.kumoh.ac.kr/ko/index.do">Kumoh National Institute of Technology</a>
-</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I want to be a <b>developer who is good to work with</b>!&nbsp;&nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFmNThydm9xN2pjZHZ1ZXQwYnhjanIyOGd1OGxsaGJodXdxZXJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9RL6QuG8k4Gco8pyFH/giphy.gif" width="70">
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I want to be a <b>developer who is good to work with</b>!&nbsp;&nbsp;<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFmNThydm9xN2pjZHZ1ZXQwYnhjanIyOGd1OGxsaGJodXdxZXJ6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9RL6QuG8k4Gco8pyFH/giphy.gif" width="40">
 </em></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac
